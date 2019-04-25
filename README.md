@@ -1,6 +1,8 @@
 
 ## `xMqttEsp32Rtos3.2Lib`
 
+- 本仓库为 `esp32 rtos 3.2` 环境的代码使用，如需拉取`esp38266`代码请访问 https://github.com/xuhongv/xLibEsp8266Rtos3.1Mqtt
+
 ----------
 ## 维护日志
 ----------
@@ -23,15 +25,6 @@
  - 本库支持 `esp8266 rtos3.1` 和 `esp32 rtos3.2`使用，**其使用提供的 API接口说明方法一样**，但具体细节使用有所不一样，链接如下:
    - `esp8266 ` : https://github.com/xuhongv/xLibEsp8266Rtos3.1Mqtt
    - `esp32 `:https://github.com/xuhongv/xLibEsp32Rtos3.2Mqtt
-
-
-----------
-
-
-<p align="center">
-  <img src="png/header.png" width="950px" height="680px" alt="Banner" />
-</p>
-
 
 ----------
 ### 二、如何使用；
